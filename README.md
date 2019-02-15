@@ -1,10 +1,15 @@
-# test-project
+# vue-tests-webpack-tuts
 
 > A Vue.js project
 
+# Project's Aim
+
+> Play around with tests, webpack module chunk-ing:
+> Unit Tests, Integration Tests & e2e Tests
+
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
