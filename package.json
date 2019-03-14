@@ -77,5 +77,8 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "keywords": []
+  "keywords": [
+    "vuejs",
+    "jest"
+  ]
 }
